@@ -1,0 +1,26 @@
+Module: Python1
+Lesson: string
+
+
+Homeworks:
+	1. Write a Python program to calculate the length of a string
+	2. Write a Python program to get a string made of the first 2 and last 2 characters of a given string.
+	3. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
+Sample String : 'restart'
+Expected Result : 'resta$t'
+	4. Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+Sample String : 'abc', 'xyz'
+Expected Result : 'xyc abz'
+	5. Write a  Python program to remove the n index ( n should be given by input) character from a nonempty string.
+	6. Write a Python program to change a given string to a newly string where the first and last chars have been exchanged.
+	7. Write a Python program to count the occurrences of a given word in a given sentence.( word and sentence should be given as a input)
+	8. Write a Python  script that takes input from the user and displays that input back in upper and lower cases.
+	9. Write a Python code to get a string made of 4 copies of the last two characters of a given string (string should be given as input).
+Sample input and result :
+('Python') -> onononon
+('Exercises') -> eseseses
+	10. Write a Python code to get a string made of the first three characters of a specified string.
+('ipy') -> ipy
+('python') -> pyt
+	11. Write a Python code to reverse a string
+	12. Write a Python program to check whether a string starts with specified characters.

@@ -1,0 +1,30 @@
+Homework1:
+
+Create a tuple literal named cardinal_numbers that holds the strings
+"first", "second", and "third", in that order. 2. Using index notation and print(), display the string at index 1 in cardinal_numbers. 3. In a single line of code, unpack the values in cardinal_numbers into three new strings named position1, position2, and position3. Then print each value on a separate line. 4. Using tuple() and a string literal, create a tuple called my_name that contains the letters of your name. 5. Check whether the character "x" is in my_name using the in keyword. 6. Create a new tuple containing all but the first letter in my_name using slice notation.
+
+Homework2:
+
+Create a list named food with two elements, "rice" and "beans".
+Append the string "broccoli" to food using .append().
+Add the strings "bread" and "pizza" to food using .extend().
+Print the first two items in the food list using print() and slice no tation.
+Print the last item in food using print() and index notation.
+Create a list called breakfast from the string "eggs, fruit, orange, juice" using the string .split() method. 7. Verify that breakfast has three items using len(). 8. Create a new list called lengths using a list comprehension that con tains the lengths of each string in the breakfast list
+
+
+Homework 3:
+      1.Write a Python program to get the smallest number from a list.
+      2. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Expected Output : ['Green', 'White', 'Black']
+      3. Write a Python program to calculate the difference between the two lists
+      4. Write a Python program to find the index of an item in a specified list.
+      5. Write a Python program to append a list to the second list.
+      6. Write a Python program to find the second smallest number in a list.
+      7. Write a Python program to find common items in two lists.
+      8. Write a Python program to split a list into different variables
+      9. Write a Python program to select the odd items from a list
+     10. Write a Python program to replace the last element in a list with another list.
+Sample data : [1, 3, 5, 7, 9, 10], [2, 4, 6, 8]
+Expected Output: [1, 3, 5, 7, 9, 2, 4, 6, 8]

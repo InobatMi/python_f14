@@ -1,0 +1,30 @@
+F14
+
+Module: Python
+
+class1 --- intro, numbers
+
+--SQL - Structured Query Language
+--Python
+
+-- Programming language
+-- CRM, EMP --
+-- Automation
+-- Big Data -- Pyspark, anache airflow
+
+
+a = 8
+b = 6
+print(a + b)
+
+
+cd , mkdir , cd .. 
+
+python 
+
+
+
+code .
+
+scraping
+
