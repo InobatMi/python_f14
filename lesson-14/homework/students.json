@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "age": 20,
+        "major": "Computer Science",
+        "gpa": 3.8
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "age": 22,
+        "major": "Mechanical Engineering",
+        "gpa": 3.5
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "age": 21,
+        "major": "Electrical Engineering",
+        "gpa": 3.7
+    }
+]
