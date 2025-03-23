@@ -1,0 +1,53 @@
+{
+    "Students":
+            [
+                {
+                "id": 1,
+                "name": "Inobat",
+                "age": 19,
+                "pets": ["dogs", "cats", "bird"],
+                "FamilyMembers":
+                                [
+                                    {
+                                        "name": "john",
+                                        "age": 28,
+                                        "relative": "Brother" 
+                                    },
+                                    {
+                                        "name": "sara",
+                                        "age": 30,
+                                        "relative": "Sister" 
+                                    },
+                                    {
+                                        "name": "alex",
+                                        "age": 28,
+                                        "relative": "Uncle" 
+                                    }
+                                ]
+                },
+                {
+                    "id": 2,
+                    "name": "Nodir",
+                    "age": 19,
+                    "pets": ["dogs", "cats", "bird"],
+                    "FamilyMembers":
+                                    [
+                                        {
+                                            "name": "Samandar",
+                                            "age": 28,
+                                            "relative": "Brother" 
+                                        },
+                                        {
+                                            "name": "Najmiddin",
+                                            "age": 30,
+                                            "relative": "Brother" 
+                                        },
+                                        {
+                                            "name": "Muhammad",
+                                            "age": 28,
+                                            "relative": "Uncle" 
+                                        }
+                                    ]
+                }
+            ]
+}
