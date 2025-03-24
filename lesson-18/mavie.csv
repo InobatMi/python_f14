@@ -1,0 +1,161 @@
+Color,Director,Duration,IMDB_Rating,Votes,Revenue,Actor,Metascore,Gross,Genres
+Color,Alex Gibney,48.0,9.3,141.0,23.0,George W. Bush,141.0,274661.0,Crime|Documentary|War
+Color,Paul Crowder,3.0,97.0,10.0,5.0,Marv Albert,102.0,144431.0,Documentary|Sport
+Color,Rohit Jagessar,120.0,8.0,0.0,0.0,Rufus Graham,12.0,227241.0,Drama
+Color,Griffin Dunne,13.0,90.0,165.0,679.0,Fisher Stevens,978.0,112521.0,Comedy|Drama
+Color,Anthony Powell,31.0,91.0,9.0,9.0,Tom Hamann,53.0,287761.0,Adventure|Biography|Documentary
+Color,Kief Davidson,43.0,93.0,0.0,0.0,Brian Whitaker,20.0,100240.0,Documentary
+Color,Johnny Remo,2.0,112.0,74.0,891.0,Randy Wayne,260000.0,96734.0,Action|Drama
+Color,Vivek Agnihotri,4.0,106.0,5.0,219.0,Anil Kapoor,724.0,49000.0,Thriller
+Color,Ti West,238.0,95.0,243.0,725.0,Greta Gerwig,969.0,100659.0,Horror
+Color,Nick Tomnay,112.0,93.0,11.0,271.0,Clayne Crawford,443.0,48430.0,Comedy|Crime|Thriller
+Color,Quentin Tarantino,152.0,5.8,119979.0,111268.0,Meryl Streep,624.0,142337.0,Sci-Fi|Thriller
+Color,Christopher Nolan,134.0,8.9,175303.0,192335.0,Scarlett Johansson,671.0,69820.0,Comedy|Drama
+Color,Quentin Tarantino,89.0,6.0,267555.0,104355.0,Meryl Streep,170.0,189779.0,Comedy|Drama
+Color,Martin Scorsese,167.0,5.1,156830.0,347622.0,Robert Downey Jr.,485.0,7747.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,114.0,9.4,378460.0,274538.0,Meryl Streep,828.0,46606.0,Horror|Mystery
+Color,James Cameron,98.0,5.1,271036.0,240931.0,Robert Downey Jr.,786.0,73148.0,Comedy|Drama
+Color,Quentin Tarantino,151.0,7.0,386602.0,49555.0,Meryl Streep,785.0,111530.0,Action|Adventure
+Color,Quentin Tarantino,109.0,8.0,281701.0,460773.0,Robert Downey Jr.,781.0,176829.0,Horror|Mystery
+Color,Steven Spielberg,149.0,7.0,37165.0,224165.0,Tom Hanks,279.0,16534.0,Romance|Fantasy
+Color,James Cameron,121.0,6.5,23347.0,25300.0,Robert Downey Jr.,888.0,14268.0,Comedy|Drama
+Color,James Cameron,119.0,7.4,236684.0,39044.0,Meryl Streep,74.0,53984.0,Action|Adventure
+Color,James Cameron,167.0,6.3,179362.0,137330.0,Scarlett Johansson,602.0,169231.0,Sci-Fi|Thriller
+Color,Christopher Nolan,92.0,7.7,134733.0,289998.0,Robert Downey Jr.,50.0,188323.0,Action|Adventure
+Color,Quentin Tarantino,93.0,5.4,389722.0,298366.0,Meryl Streep,108.0,278109.0,Sci-Fi|Thriller
+Color,Christopher Nolan,124.0,6.7,139282.0,473525.0,Scarlett Johansson,778.0,219020.0,Comedy|Drama
+Color,Christopher Nolan,68.0,8.2,219069.0,123409.0,Tom Hanks,470.0,258618.0,Action|Adventure
+Color,Quentin Tarantino,155.0,8.1,211528.0,106878.0,Meryl Streep,664.0,254002.0,Horror|Mystery
+Color,Quentin Tarantino,72.0,5.3,337694.0,356570.0,Tom Hanks,587.0,69044.0,Action|Adventure
+Color,Martin Scorsese,65.0,7.1,243407.0,201235.0,Tom Hanks,807.0,157906.0,Comedy|Drama
+Color,Quentin Tarantino,148.0,6.4,286020.0,162152.0,Leonardo DiCaprio,292.0,142848.0,Romance|Fantasy
+Color,Martin Scorsese,164.0,6.4,451369.0,22959.0,Scarlett Johansson,658.0,270892.0,Action|Adventure
+Color,Christopher Nolan,165.0,6.5,165938.0,336674.0,Leonardo DiCaprio,701.0,44353.0,Romance|Fantasy
+Color,Quentin Tarantino,98.0,7.2,416980.0,68172.0,Leonardo DiCaprio,961.0,98264.0,Sci-Fi|Thriller
+Color,James Cameron,61.0,7.3,374425.0,395070.0,Meryl Streep,745.0,274536.0,Action|Adventure
+Color,Christopher Nolan,61.0,7.4,125757.0,236167.0,Tom Hanks,448.0,103506.0,Sci-Fi|Thriller
+Color,James Cameron,97.0,6.7,445399.0,107081.0,Scarlett Johansson,520.0,27671.0,Action|Adventure
+Color,James Cameron,118.0,5.8,15808.0,355050.0,Tom Hanks,773.0,117547.0,Sci-Fi|Thriller
+Color,Steven Spielberg,126.0,8.6,142583.0,134983.0,Tom Hanks,498.0,89896.0,Comedy|Drama
+Color,James Cameron,70.0,6.5,301628.0,375705.0,Robert Downey Jr.,620.0,152718.0,Romance|Fantasy
+Color,Steven Spielberg,171.0,7.5,470687.0,374616.0,Robert Downey Jr.,906.0,288076.0,Horror|Mystery
+Color,Christopher Nolan,178.0,6.5,380102.0,174714.0,Scarlett Johansson,413.0,11295.0,Action|Adventure
+Color,Quentin Tarantino,134.0,9.2,267783.0,185423.0,Tom Hanks,263.0,184426.0,Action|Adventure
+Color,Christopher Nolan,84.0,5.0,178147.0,284501.0,Robert Downey Jr.,715.0,7869.0,Sci-Fi|Thriller
+Color,Martin Scorsese,100.0,5.8,38567.0,286472.0,Meryl Streep,825.0,140059.0,Sci-Fi|Thriller
+Color,James Cameron,92.0,7.4,107550.0,172890.0,Meryl Streep,572.0,155810.0,Sci-Fi|Thriller
+Color,Steven Spielberg,80.0,7.3,433106.0,370599.0,Leonardo DiCaprio,462.0,176836.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,94.0,8.5,106083.0,467960.0,Tom Hanks,229.0,87989.0,Horror|Mystery
+Color,Christopher Nolan,164.0,9.3,265664.0,359896.0,Meryl Streep,616.0,129019.0,Horror|Mystery
+Color,Martin Scorsese,91.0,8.8,118115.0,217386.0,Robert Downey Jr.,802.0,168817.0,Comedy|Drama
+Color,Christopher Nolan,163.0,5.3,242389.0,73991.0,Robert Downey Jr.,648.0,87074.0,Comedy|Drama
+Color,Steven Spielberg,149.0,8.3,499716.0,106864.0,Scarlett Johansson,255.0,59748.0,Comedy|Drama
+Color,Steven Spielberg,158.0,6.2,272891.0,140788.0,Tom Hanks,515.0,253710.0,Action|Adventure
+Color,Quentin Tarantino,104.0,5.9,77675.0,269799.0,Tom Hanks,892.0,129046.0,Romance|Fantasy
+Color,Steven Spielberg,125.0,7.0,124962.0,231229.0,Scarlett Johansson,674.0,57921.0,Horror|Mystery
+Color,Steven Spielberg,117.0,5.1,70413.0,390957.0,Scarlett Johansson,453.0,118632.0,Horror|Mystery
+Color,Quentin Tarantino,167.0,9.3,480458.0,88235.0,Meryl Streep,893.0,216810.0,Romance|Fantasy
+Color,Martin Scorsese,173.0,7.3,345857.0,223866.0,Leonardo DiCaprio,129.0,215706.0,Romance|Fantasy
+Color,Steven Spielberg,114.0,6.1,32317.0,9308.0,Leonardo DiCaprio,917.0,79740.0,Action|Adventure
+Color,Steven Spielberg,60.0,7.0,177347.0,139877.0,Leonardo DiCaprio,497.0,192628.0,Horror|Mystery
+Color,James Cameron,75.0,7.3,29475.0,141734.0,Meryl Streep,799.0,257764.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,85.0,6.6,144456.0,204861.0,Leonardo DiCaprio,294.0,14435.0,Horror|Mystery
+Color,James Cameron,153.0,8.8,191575.0,161196.0,Tom Hanks,921.0,244833.0,Comedy|Drama
+Color,Martin Scorsese,98.0,6.6,318817.0,60101.0,Meryl Streep,32.0,28049.0,Horror|Mystery
+Color,Quentin Tarantino,93.0,6.2,196589.0,24289.0,Scarlett Johansson,451.0,276967.0,Action|Adventure
+Color,Martin Scorsese,168.0,5.7,52091.0,189751.0,Robert Downey Jr.,506.0,54115.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,83.0,8.0,12038.0,429411.0,Leonardo DiCaprio,938.0,206660.0,Sci-Fi|Thriller
+Color,Christopher Nolan,160.0,7.8,491172.0,39304.0,Robert Downey Jr.,52.0,156836.0,Horror|Mystery
+Color,Quentin Tarantino,154.0,6.7,97632.0,355802.0,Robert Downey Jr.,44.0,32350.0,Action|Adventure
+Color,Steven Spielberg,67.0,6.7,408621.0,338497.0,Robert Downey Jr.,124.0,287502.0,Romance|Fantasy
+Color,Steven Spielberg,176.0,6.6,11438.0,132484.0,Tom Hanks,738.0,65692.0,Horror|Mystery
+Color,James Cameron,95.0,5.8,18988.0,167807.0,Scarlett Johansson,698.0,90999.0,Romance|Fantasy
+Color,Steven Spielberg,172.0,8.5,452347.0,220798.0,Meryl Streep,789.0,172280.0,Horror|Mystery
+Color,James Cameron,158.0,5.5,374132.0,111448.0,Tom Hanks,889.0,124180.0,Sci-Fi|Thriller
+Color,Christopher Nolan,108.0,5.2,195104.0,467152.0,Scarlett Johansson,85.0,205968.0,Romance|Fantasy
+Color,Quentin Tarantino,142.0,7.2,139507.0,350044.0,Meryl Streep,108.0,107795.0,Action|Adventure
+Color,Quentin Tarantino,144.0,8.4,322810.0,198775.0,Leonardo DiCaprio,48.0,89076.0,Horror|Mystery
+Color,Steven Spielberg,117.0,5.3,388418.0,366177.0,Meryl Streep,172.0,43102.0,Horror|Mystery
+Color,Christopher Nolan,134.0,5.5,203439.0,180208.0,Robert Downey Jr.,963.0,236915.0,Action|Adventure
+Color,Martin Scorsese,161.0,5.4,177904.0,182415.0,Robert Downey Jr.,402.0,224930.0,Comedy|Drama
+Color,Steven Spielberg,64.0,7.3,316937.0,290106.0,Meryl Streep,842.0,243067.0,Action|Adventure
+Color,James Cameron,104.0,8.4,167081.0,221411.0,Scarlett Johansson,454.0,253683.0,Sci-Fi|Thriller
+Color,Steven Spielberg,149.0,6.5,15585.0,307626.0,Meryl Streep,662.0,222841.0,Romance|Fantasy
+Color,Steven Spielberg,79.0,5.5,406432.0,157542.0,Leonardo DiCaprio,944.0,44298.0,Horror|Mystery
+Color,Quentin Tarantino,121.0,6.8,231007.0,291160.0,Leonardo DiCaprio,833.0,218920.0,Horror|Mystery
+Color,Steven Spielberg,103.0,9.4,416016.0,297764.0,Meryl Streep,89.0,197714.0,Romance|Fantasy
+Color,Martin Scorsese,95.0,7.5,276087.0,115065.0,Leonardo DiCaprio,314.0,264214.0,Action|Adventure
+Color,Martin Scorsese,113.0,7.6,150259.0,173502.0,Leonardo DiCaprio,980.0,16023.0,Romance|Fantasy
+Color,Quentin Tarantino,176.0,6.2,46527.0,324673.0,Robert Downey Jr.,325.0,167993.0,Romance|Fantasy
+Color,Quentin Tarantino,160.0,9.4,20259.0,498562.0,Leonardo DiCaprio,210.0,171619.0,Horror|Mystery
+Color,Martin Scorsese,105.0,5.3,438761.0,399929.0,Scarlett Johansson,265.0,55990.0,Action|Adventure
+Color,Steven Spielberg,69.0,9.2,417109.0,319714.0,Meryl Streep,14.0,6015.0,Action|Adventure
+Color,James Cameron,77.0,9.4,112916.0,129778.0,Meryl Streep,291.0,140230.0,Action|Adventure
+Color,Christopher Nolan,86.0,7.6,151556.0,281161.0,Leonardo DiCaprio,108.0,275846.0,Action|Adventure
+Color,Martin Scorsese,171.0,5.3,275007.0,150456.0,Meryl Streep,872.0,145932.0,Sci-Fi|Thriller
+Color,Martin Scorsese,82.0,8.5,273160.0,5809.0,Robert Downey Jr.,92.0,149528.0,Horror|Mystery
+Color,James Cameron,169.0,6.1,316176.0,411316.0,Tom Hanks,455.0,206152.0,Action|Adventure
+Color,Steven Spielberg,151.0,6.2,386698.0,277633.0,Robert Downey Jr.,683.0,66877.0,Sci-Fi|Thriller
+Color,Christopher Nolan,109.0,8.8,115865.0,337107.0,Meryl Streep,999.0,291429.0,Sci-Fi|Thriller
+Color,James Cameron,76.0,5.6,413074.0,16254.0,Meryl Streep,862.0,86317.0,Romance|Fantasy
+Color,Steven Spielberg,97.0,7.7,204725.0,139013.0,Scarlett Johansson,444.0,255875.0,Comedy|Drama
+Color,Christopher Nolan,140.0,9.3,433127.0,318623.0,Leonardo DiCaprio,339.0,287107.0,Romance|Fantasy
+Color,Martin Scorsese,93.0,7.8,5669.0,70836.0,Scarlett Johansson,52.0,148087.0,Sci-Fi|Thriller
+Color,Christopher Nolan,170.0,5.6,498970.0,212791.0,Scarlett Johansson,383.0,158487.0,Romance|Fantasy
+Color,Quentin Tarantino,115.0,6.9,214979.0,364714.0,Scarlett Johansson,102.0,33732.0,Comedy|Drama
+Color,Christopher Nolan,78.0,8.7,480821.0,112195.0,Robert Downey Jr.,838.0,290205.0,Horror|Mystery
+Color,James Cameron,64.0,7.1,149949.0,225301.0,Robert Downey Jr.,954.0,96865.0,Horror|Mystery
+Color,Christopher Nolan,132.0,5.4,284818.0,399456.0,Scarlett Johansson,840.0,188868.0,Action|Adventure
+Color,Steven Spielberg,95.0,8.6,389844.0,473930.0,Meryl Streep,701.0,116317.0,Comedy|Drama
+Color,Quentin Tarantino,146.0,7.4,245221.0,148820.0,Robert Downey Jr.,535.0,151106.0,Sci-Fi|Thriller
+Color,Christopher Nolan,170.0,8.8,448974.0,39638.0,Tom Hanks,283.0,110977.0,Sci-Fi|Thriller
+Color,Christopher Nolan,74.0,5.5,431834.0,374220.0,Tom Hanks,723.0,6062.0,Action|Adventure
+Color,James Cameron,162.0,5.4,245985.0,48915.0,Leonardo DiCaprio,154.0,139668.0,Romance|Fantasy
+Color,James Cameron,127.0,6.6,82252.0,126036.0,Robert Downey Jr.,120.0,31069.0,Comedy|Drama
+Color,James Cameron,167.0,5.6,363020.0,192076.0,Tom Hanks,291.0,53447.0,Comedy|Drama
+Color,Christopher Nolan,115.0,7.2,112681.0,266956.0,Leonardo DiCaprio,298.0,121421.0,Romance|Fantasy
+Color,Christopher Nolan,121.0,6.3,145090.0,479871.0,Leonardo DiCaprio,768.0,236966.0,Horror|Mystery
+Color,Quentin Tarantino,83.0,5.5,122277.0,304571.0,Tom Hanks,84.0,127883.0,Action|Adventure
+Color,Christopher Nolan,121.0,9.2,946.0,11954.0,Robert Downey Jr.,444.0,142541.0,Comedy|Drama
+Color,Quentin Tarantino,78.0,5.9,176759.0,431192.0,Tom Hanks,568.0,109537.0,Horror|Mystery
+Color,Christopher Nolan,159.0,6.4,47462.0,283272.0,Robert Downey Jr.,19.0,87180.0,Comedy|Drama
+Color,Quentin Tarantino,61.0,6.5,257765.0,428603.0,Leonardo DiCaprio,328.0,113872.0,Action|Adventure
+Color,James Cameron,134.0,7.1,97929.0,420830.0,Scarlett Johansson,615.0,47078.0,Action|Adventure
+Color,Martin Scorsese,121.0,8.4,305173.0,128309.0,Meryl Streep,385.0,201513.0,Romance|Fantasy
+Color,Christopher Nolan,94.0,9.2,167331.0,44925.0,Tom Hanks,841.0,92388.0,Sci-Fi|Thriller
+Color,James Cameron,160.0,5.9,351105.0,256266.0,Meryl Streep,174.0,160002.0,Comedy|Drama
+Color,Quentin Tarantino,148.0,8.9,477372.0,306447.0,Scarlett Johansson,646.0,223134.0,Action|Adventure
+Color,James Cameron,76.0,9.0,438874.0,412597.0,Meryl Streep,625.0,97263.0,Sci-Fi|Thriller
+Color,Christopher Nolan,129.0,9.2,96746.0,346266.0,Robert Downey Jr.,457.0,272552.0,Romance|Fantasy
+Color,Christopher Nolan,95.0,9.5,359964.0,329800.0,Meryl Streep,420.0,218942.0,Action|Adventure
+Color,Quentin Tarantino,145.0,8.2,365160.0,244322.0,Robert Downey Jr.,874.0,51197.0,Horror|Mystery
+Color,Quentin Tarantino,168.0,5.6,302875.0,392182.0,Meryl Streep,657.0,69772.0,Horror|Mystery
+Color,Quentin Tarantino,135.0,8.5,147650.0,233050.0,Scarlett Johansson,941.0,135330.0,Horror|Mystery
+Color,Quentin Tarantino,70.0,9.3,76425.0,241773.0,Robert Downey Jr.,311.0,138515.0,Comedy|Drama
+Color,Martin Scorsese,163.0,7.3,17468.0,147400.0,Tom Hanks,692.0,175987.0,Romance|Fantasy
+Color,Quentin Tarantino,64.0,9.2,366507.0,1126.0,Robert Downey Jr.,613.0,201382.0,Comedy|Drama
+Color,James Cameron,177.0,5.3,175499.0,463120.0,Scarlett Johansson,416.0,39560.0,Horror|Mystery
+Color,Martin Scorsese,149.0,8.8,124185.0,380862.0,Leonardo DiCaprio,10.0,105158.0,Sci-Fi|Thriller
+Color,Martin Scorsese,106.0,5.2,490732.0,58545.0,Tom Hanks,322.0,18224.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,84.0,8.9,466825.0,140649.0,Robert Downey Jr.,484.0,142855.0,Sci-Fi|Thriller
+Color,Christopher Nolan,167.0,9.1,247065.0,330670.0,Tom Hanks,719.0,287100.0,Action|Adventure
+Color,James Cameron,88.0,7.6,267001.0,20097.0,Tom Hanks,891.0,163768.0,Action|Adventure
+Color,Quentin Tarantino,164.0,5.7,315097.0,156989.0,Tom Hanks,72.0,211524.0,Action|Adventure
+Color,James Cameron,155.0,5.3,354618.0,134554.0,Scarlett Johansson,961.0,98501.0,Horror|Mystery
+Color,James Cameron,104.0,6.7,72947.0,94607.0,Scarlett Johansson,27.0,69077.0,Sci-Fi|Thriller
+Color,Steven Spielberg,125.0,7.4,38100.0,27737.0,Scarlett Johansson,840.0,191240.0,Horror|Mystery
+Color,Christopher Nolan,91.0,6.2,393270.0,338773.0,Robert Downey Jr.,389.0,218046.0,Romance|Fantasy
+Color,Steven Spielberg,66.0,8.0,373148.0,208606.0,Scarlett Johansson,993.0,297822.0,Sci-Fi|Thriller
+Color,Martin Scorsese,131.0,5.5,478546.0,463052.0,Scarlett Johansson,60.0,160232.0,Romance|Fantasy
+Color,Steven Spielberg,94.0,6.1,425137.0,207111.0,Scarlett Johansson,921.0,126300.0,Comedy|Drama
+Color,Steven Spielberg,66.0,8.3,453816.0,185466.0,Meryl Streep,924.0,149931.0,Horror|Mystery
+Color,Quentin Tarantino,141.0,9.0,261010.0,24236.0,Tom Hanks,532.0,108145.0,Comedy|Drama
+Color,Christopher Nolan,146.0,5.2,378487.0,15596.0,Meryl Streep,943.0,137351.0,Action|Adventure
+Color,Steven Spielberg,112.0,6.3,382551.0,258529.0,Tom Hanks,289.0,261713.0,Sci-Fi|Thriller
+Color,James Cameron,173.0,5.1,2673.0,472560.0,Robert Downey Jr.,246.0,28752.0,Sci-Fi|Thriller
+Color,Quentin Tarantino,85.0,7.4,208080.0,257609.0,Meryl Streep,84.0,193456.0,Comedy|Drama
+Color,James Cameron,96.0,7.9,128477.0,472627.0,Meryl Streep,883.0,21725.0,Horror|Mystery
+Color,Christopher Nolan,116.0,6.2,29502.0,5263.0,Robert Downey Jr.,277.0,182900.0,Action|Adventure
+Color,Martin Scorsese,130.0,7.6,404980.0,298881.0,Meryl Streep,485.0,165445.0,Comedy|Drama
+Color,Steven Spielberg,113.0,8.3,150422.0,22172.0,Tom Hanks,380.0,58276.0,Horror|Mystery
+Color,Christopher Nolan,99.0,7.0,465671.0,223320.0,Scarlett Johansson,816.0,233071.0,Sci-Fi|Thriller
